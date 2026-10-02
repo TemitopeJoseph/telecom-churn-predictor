@@ -16,7 +16,7 @@ Customer churn occurs when a customer cancels their subscription or service. In 
 
 This project goes beyond raw accuracy to solve a **business-first objective**: identifying at-risk customers early enough to intervene while minimizing unnecessary promotional spending.
 
-### 🔗 [Click Here to Access the Live Web Application](https://your-streamlit-app-link.streamlit.app) *(Replace with your live link)*
+### 🔗 [Click Here to Access the Live Web Application](https://telecom-churn-predictor-ciybzholqcmvgjsnmfsq6s.streamlit.app/)
 
 ---
 
